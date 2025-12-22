@@ -1,0 +1,8 @@
+* { margin:0; padding:0;} /* This resets all user agent styles */
+
+.section { background-color:chocolate;}
+
+#header { background-color:black; padding:30px 0;}
+#header #nav { display:flex; justify-content:end;}
+#header #nav a { color:white; margin:0 15px; font-size:18px;}
+#content {display: grid; grid-template-columns: repeat(12,1fr); gap:15px}
