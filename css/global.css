@@ -1,1 +1,8 @@
-body { background-color:chocolate;}
+body { background-color:chocolate;text-align: center;}
+* { margin:0; padding:0;} 
+* { margin:50; padding:20;} 
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+  
